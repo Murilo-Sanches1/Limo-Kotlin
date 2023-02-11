@@ -1,4 +1,4 @@
-# limo-kotlin
+# Limo-Kotlin
 
 ## Introdução
 Foi meu primeiro contato com Kotlin, desafio proposto pelo meu professor usando um 
